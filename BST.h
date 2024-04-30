@@ -92,6 +92,11 @@ public:
     else printhelp(root, 0);
   }
 
+
+  void printPostOrder() {
+    // Code to print post order
+  }
+  
   void printPreOrder() {
     // Code to print pre order
   }
