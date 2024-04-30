@@ -97,6 +97,10 @@ public:
     // Code to print post order
   }
   
+  void printPreOrder() {
+    // Code to print pre order
+  }
+  
 };
 
 // Visit -- prints out root
