@@ -91,6 +91,10 @@ public:
     if (root == NULL) cout << "The BST is empty.\n";
     else printhelp(root, 0);
   }
+
+  void printPreOrder() {
+    // Code to print pre order
+  }
   
 };
 
